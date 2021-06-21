@@ -86,6 +86,17 @@ function generatePassword() {
         userChoices = userChoices.concat(special);
     }
 
+    confirmNumber = confirm("Do you want to include a number?")
+    console.log(confirmNumber)
+
+    if(confirmNumber) {
+        // add numbers!
+        // [] + ["!", "@", "#", "$", "%", "^","&", "*",...] = [a, b, c, d, e....]
+        userChoices = userChoices.concat(Number);
+    }
+
+
+
     console.log(userChoices)
 
     // after confirming the userChoices
