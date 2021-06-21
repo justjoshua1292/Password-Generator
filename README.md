@@ -29,7 +29,7 @@ You can do this by clicking the button on the screen! Try it out! 😎✨😊
 ![Screenshot (94)](https://user-images.githubusercontent.com/83887301/122800196-a4fb7a80-d290-11eb-81dc-5c0567b0dabf.png)
 ![Screenshot (95)](https://user-images.githubusercontent.com/83887301/122800197-a4fb7a80-d290-11eb-8f1e-744f2a5ffa77.png)
 
-https://github.com/justjoshua1292/Password-Generator
+https://justjoshua1292.github.io/Password-Generator/
 
 
 
